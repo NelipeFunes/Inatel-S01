@@ -17,7 +17,7 @@ INPUT "Digite o tempo em horas: ", horas
 minutos = horas * 60
 segundos = minutos * 60
 
-PRINT horas; " tem : "; minutos; " minutos"
-PRINT horas; " tem : "; segundos; " segundos"
+PRINT horas; " horas tem : "; minutos; " minutos"
+PRINT horas; " horas tem : "; segundos; " segundos"
 
 END
